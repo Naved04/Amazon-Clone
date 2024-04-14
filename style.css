@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image: url("Images/amazon_logo.png");
+    background-image: url("https://github.com/Naved04/Amazon-Clone/blob/main/Images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -132,7 +132,7 @@ span {
 /* MAin body */
 
 .hero-section {
-    background-image: url("images/hero-image.jpg");
+    background-image: url("https://github.com/Naved04/Amazon-Clone/blob/main/Images/hero-image.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
